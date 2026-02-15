@@ -81,17 +81,19 @@ The dataset follows a natural long-tail distribution, making rare-class detectio
 ---
 
 ## 🗂 Directory Layout
+
+```
 TIAND-Vision/
 ├── images/
-│ ├── train
-│ ├── val
-│ └── test
+│   ├── train/
+│   ├── val/
+│   └── test/
 ├── labels/
-│ ├── train
-│ ├── val
-│ └── test
+│   ├── train/
+│   ├── val/
+│   └── test/
 └── data.yaml
-
+```
 
 
 ---
