@@ -119,38 +119,4 @@ All values are normalized.
 
 YOLOv11 currently provides the strongest balance of localization accuracy and recall in dense Indian traffic scenes.
 
----
 
-## ⚙️ Quick Training Example
-
-```bash
-yolo detect train data=data.yaml model=yolo11m.pt imgsz=640 epochs=100
-
-
-Research Applications
-
-TIAND-Vision supports work on:
-
-Long-tail learning
-
-Rare hazard detection
-
-Night perception
-
-Adverse weather robustness
-
-Dense multi-object reasoning
-
-Occlusion handling
-
-Domain adaptation
-
-Real-world AV validation
-
-
-@article{tiandvision2026,
-  title={TIAND-Vision: Benchmarking Camera-Based Object Detection Models on Unstructured Indian Roads},
-  author={Abhilash S and K. Aravind and Manish Gupta and K. Manoj Prabhakaran and P. Rajalakshmi},
-  journal={IEEE VTC},
-  year={2026}
-}
