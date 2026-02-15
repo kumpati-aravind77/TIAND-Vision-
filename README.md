@@ -8,7 +8,7 @@ The dataset is designed to push perception systems beyond structured-road assump
 
 
 <p align="center">
-  <img src="assets/tiand_vehicle.jpg" width="800">
+  <img src="[assets/tiand_vehicle.jpg](https://github.com/kumpati-aravind77/TIAND-Vision-/blob/main/assets/tiand_vehicle.png)" width="800">
 </p>
 
 
