@@ -6,6 +6,12 @@ The dataset is designed to push perception systems beyond structured-road assump
 
 ---
 
+
+<p align="center">
+  <img src="assets/tiand_vehicle.jpg" width="800">
+</p>
+
+
 ## 🚗 Highlights
 
 - 7100+ km of driving  
