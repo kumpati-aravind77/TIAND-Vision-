@@ -12,6 +12,21 @@ The dataset is designed to push perception systems beyond structured-road assump
   <b>Multi_Sensors_Data_Collection_Vehicle</b>
 </p>
 
+## 📂 TiAND Datasets (TiHAN – IIT Hyderabad)
+
+The **TiAND (TiHAN Autonomous Navigation Datasets)** repository provides multimodal datasets designed for autonomous navigation research across:
+- Ground vehicles (camera, LiDAR, radar, GNSS, V2X)
+- UAV datasets
+- Underwater sonar datasets
+- Agricultural imagery datasets
+
+The datasets are provided by **TiHAN – Technology Innovation Hub on Autonomous Navigation, IIT Hyderabad**.
+
+🔗 **Official dataset portal:** https://tihan.iith.ac.in/TiAND.html
+
+
+
+
 ## 🚗 Highlights
 
 - 7100+ km of driving  
